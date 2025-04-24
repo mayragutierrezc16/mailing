@@ -1,37 +1,25 @@
+📧 Responsive Promotional Email Template – by May Gutierrez
 
-## 🗺️ Secciones Incluidas
+Este archivo contiene una plantilla de mailing en HTML ideal para anunciar promociones, lanzamientos de productos o cualquier oferta especial.
 
-- Header con navegación sticky
-- Hero con CTA destacado
-- Servicios
-- Proyectos
-- Testimonios
-- Formulario de contacto
-- Footer
+🧩 ¿Qué incluye?
+- HTML responsive (compatible con Gmail, Outlook y más)
+- Diseño moderno y editable
+- Estructura de secciones: encabezado, imagen principal, beneficios, llamado a la acción, testimonio y pie de página
 
-## 🚀 Cómo usar
+📁 Archivos
+- index.html → plantilla principal
+- img/hero.jpg → imagen destacada (podés reemplazarla por la tuya)
+- preview.jpg → muestra visual (opcional)
 
-1. Cloná o descargá este repositorio.
-2. Abrí `index.html` en tu navegador para ver la página.
-3. Editá los textos, íconos o estilos según tus necesidades.
-4. Cambiá fácilmente el idioma haciendo clic en el botón "EN"/"ES".
+🛠️ Personalización
+- Editá el texto directamente en el HTML
+- Cambiá colores, botones, imágenes y enlaces fácilmente
+- Compatible con herramientas como Mailchimp (copia y pega el HTML)
 
-## 🎨 Personalización
+📱 Mobile Friendly
+Totalmente responsive y con estilo adaptable a todos los dispositivos.
 
-- Cambiá colores y fuentes desde `<styles>`.
-- Integra con un servicio de backend para que el formulario funcione.
-
-## 🛠️ Tecnologías
-
-- HTML5
-- CSS3 (modo dark incluido)
-- JavaScript (puro, sin librerías)
-
-## 📸 Demo
-
-https://mayragutierrezc16.github.io/mailing/
-
-
----
-
-💻 Hecho con 💖 por [May Gutierrez](https://mayragutierrez.gumroad.com)
+Gracias por tu compra ✨
+Instagram: @may.gutierrez.dev
+Gumroad: https://mayragutierrez.gumroad.com
