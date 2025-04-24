@@ -1,0 +1,37 @@
+
+## 🗺️ Secciones Incluidas
+
+- Header con navegación sticky
+- Hero con CTA destacado
+- Servicios
+- Proyectos
+- Testimonios
+- Formulario de contacto
+- Footer
+
+## 🚀 Cómo usar
+
+1. Cloná o descargá este repositorio.
+2. Abrí `index.html` en tu navegador para ver la página.
+3. Editá los textos, íconos o estilos según tus necesidades.
+4. Cambiá fácilmente el idioma haciendo clic en el botón "EN"/"ES".
+
+## 🎨 Personalización
+
+- Cambiá colores y fuentes desde `<styles>`.
+- Integra con un servicio de backend para que el formulario funcione.
+
+## 🛠️ Tecnologías
+
+- HTML5
+- CSS3 (modo dark incluido)
+- JavaScript (puro, sin librerías)
+
+## 📸 Demo
+
+https://mayragutierrezc16.github.io/mailing/
+
+
+---
+
+💻 Hecho con 💖 por [May Gutierrez](https://mayragutierrez.gumroad.com)
